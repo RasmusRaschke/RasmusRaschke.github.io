@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rasmusraschke.github.io/sitemap.xml
+Sitemap: https://rasmusraschke.github.io/al-folio/sitemap.xml
