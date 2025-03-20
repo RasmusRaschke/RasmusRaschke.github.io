@@ -6,7 +6,7 @@ title: Homepage # the website title (if blank, full name will be used instead)
 first_name: Rasmus
 middle_name: C.
 last_name: Raschke
-contact_note: > rasmus.raschke@uni-hamburg.de
+contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A collection of my lecture notes, projects and more.
 footer_text: >
