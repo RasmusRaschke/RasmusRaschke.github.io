@@ -2,11 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Homepage # the website title (if blank, full name will be used instead)
+title: Rasmus' Homepage # the website title (if blank, full name will be used instead)
 first_name: Rasmus
 middle_name: C.
 last_name: Raschke
 contact_note: >
+  You can reach me reliably via mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A collection of my lecture notes, projects and more.
 footer_text: >
@@ -86,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Rasmus' Blog # blog_name will be displayed in your blog page
-blog_description: a little blog things I am interested in at the moment
+blog_description: a little blog about things I am interested in at the moment
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
