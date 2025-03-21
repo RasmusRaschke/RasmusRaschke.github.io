@@ -4,7 +4,7 @@
     - name: Full Name
       value: Rasmus Curt Raschke
     - name: Date of Birth
-      value: 03rd October 2000
+      value: 3rd October 2000
     - name: Languages
       value: English, German, Japanese, Latin
 
@@ -21,32 +21,29 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: A-levels
-      institution: Karl-Friedrich-Gymnasium, Mannheim, Deutschland
+    - title: A levels
+      institution: Karl-Friedrich-Gymnasium, Mannheim, Germany
       year: 2020
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
     - title: Student Mentor
-      institution: Life-Science Lab, DKFZ Heidelberg, Deutschland
-      year: 2018 - 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      institution: Life-Science Lab, German Cancer Research Center (DKFZ) Heidelberg, Germany
+      year: 2019 - 2022
     - title: Student Assistant 
-      institution: University of Hamburg, AK Herrmann, Deutschland
-      year: 2020
+      institution: University of Hamburg, AK Herrmann, Germany
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - I helped with coding in C++.
+    - title: Tutor
+      institution: University of Hamburg, MIN faculty, Germany
+      year: 2021 - now
+      description:
+        - exercise classes for Mathematics for Chemists 1 and 2
+        - tutorials for Theoretical Physics
+        - tutorials for Mathematics for Physicists 3 and 4
+        - grading exercises for Mathematics for Nano Scientists A
 
 - title: Honors and Awards
   type: time_table

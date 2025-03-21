@@ -6,13 +6,20 @@ nav: false
 collection: books
 ---
 
-## Books that I am reading, have read, or will read
+## A collection of books, primarily as reference for my projects and notes.
 
-### Scientific books
- - Sheldon Axler: Linear Algebra Done Right, 4th edition
+### Algebra
+ - Sheldon Axler: [Linear Algebra Done Right](https://linear.axler.net/), 4th edition: I use this book as my main linear algebra reference. Fortunately, it is freely avaliable.
+ - Paolo Aluffi: Algebra: Chapter 0, 1st edition: This is my main reference for abstract algebra and some cathegory theory.
 
-### Philosophy
+### Analysis
+ - Otto Forster: Analysis 1, 2, 3: These are my analysis reference books, covering real analysis in one and several variables, introductory ODEs and integration theory.
+ - Paul Rudin: Principles of Mathematical Analysis: I worked with this book sometimes, especially to brush up on some topics in real analysis.
 
-### Novels
- - Han Kang, The Vegetarian, 2007
- - Johann Wolfgang von Goethe: Faust 1&2, 1808
+### Differential Geometry
+ - 
+
+### Topology
+ - 
+
+
