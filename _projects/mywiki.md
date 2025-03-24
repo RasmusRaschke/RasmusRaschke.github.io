@@ -14,4 +14,3 @@ This is an attempt at creating my own encyclopedia of everything I learned about
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
