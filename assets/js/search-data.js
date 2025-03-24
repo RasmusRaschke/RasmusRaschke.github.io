@@ -65,7 +65,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{
+            },{id: "projects-mywiki",
+          title: 'MyWiki',
+          description: "My personal math wiki.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mywiki/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
