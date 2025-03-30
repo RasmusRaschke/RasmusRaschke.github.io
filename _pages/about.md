@@ -27,8 +27,3 @@ Welcome to my homepage! I am currently a master's student of Mathematical Physic
 # About me
 
 I graduated in 2025 from the University of Hamburg with a bachelor's degree in nano science. My thesis is concerned with theoretical intricacies of Kondo correlation and static correlation of adsorbed impurities. It can be found [here](https://www2.physnet.uni-hamburg.de/services/bibliothek/Examensarbeiten/bachelor/BA2024.htm).
-
-The focus of my master's degree is differential topology and geometry as well as scientific computing.
-
-In my free time, I like to read, learn Japanese and write. Apart from that, I spend many hours on Kendo practice and running.
-
