@@ -27,3 +27,4 @@ Welcome to my homepage! I am currently a master's student of Mathematical Physic
 # About me
 
 I graduated in 2025 from the University of Hamburg with a bachelor's degree in nano science. My thesis is concerned with theoretical intricacies of Kondo correlation and static correlation of adsorbed impurities. It can be found [here](https://www2.physnet.uni-hamburg.de/services/bibliothek/Examensarbeiten/bachelor/BA2024.htm).
+At the moment, I do preparatory work for my master's thesis in higher category theory. Besides that, I do theoretical research in the [group of Prof. Dr. Wiesendanger](http://www.nanoscience.de/group_r/magneto-theory/team/) regarding classical analytical mechanics.

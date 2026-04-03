@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 3rd October 2000
     - name: Languages
-      value: English, German, Japanese, Latin
+      value: German, English (C1), Japanese (JLPT N3), Latin
 
 - title: Education
   type: time_table
@@ -14,10 +14,11 @@
     - title: Bachelor's Degree
       institution: University of Hamburg, Hamburg, Deutschland
       year: 2025
-      description: B. Sc. Nano Science
+      description: B. Sc. Nano Science (Final Grade: 1.2)
     - title: A levels
       institution: Karl-Friedrich-Gymnasium, Mannheim, Germany
       year: 2020
+      description: Abitur (Final Grade: 1.0)
 
 - title: Experience
   type: time_table
@@ -29,15 +30,21 @@
       institution: University of Hamburg, AK Herrmann, Germany
       year: 2022
       description:
-        - I helped with coding in C++.
+        - Coding in C++ and python
     - title: Tutor
       institution: University of Hamburg, MIN faculty, Germany
-      year: 2021 - now
+      year: 2021 - 2025
       description:
-        - exercise classes for Mathematics for Chemists 1 and 2
-        - tutorials for Theoretical Physics
-        - tutorials for Mathematics for Physicists 3 and 4
-        - grading exercises for Mathematics for Nano Scientists A
+        - Exercise classes for Mathematics for Chemists 1 and 2
+        - Tutorials for Theoretical Physics
+        - Tutorials for Mathematics for Physicists 3 and 4
+        - Grading for Mathematics for Nano Scientists A
+    - title: Student Assistant
+      institution: University of Hamburg, AK Wiesendanger, Germany
+      year: 2025 - now
+      description:
+        - Research work on analytical mechanics and electrodynamics
+        - Programming in C++ and Python
 
 - title: Honors and Awards
   type: time_table
@@ -49,4 +56,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> reading, writing, language learning, running, Kendo
+    - <u>Hobbies:</u> reading, language learning, running, kendo, bouldering
