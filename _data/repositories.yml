@@ -5,7 +5,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - RasmusRaschke/scripts
-  - RasmusRaschke/Informatik_Nanos
+  - RasmusRaschke/hiwi25
 
 github_obsidian:
   - RasmusRaschke/MyWiki
+  - RasmusRaschke/kokuyouwiki
