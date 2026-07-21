@@ -70,6 +70,11 @@ ninja.data = [{
           description: "My personal Japanese wiki.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/kokuyouwiki/";
+            },},{id: "projects-magsphere",
+          title: 'magsphere',
+          description: "A program to simulate the dynamic of magnetic spheres in external fields.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/magsphere/";
             },},{id: "projects-mywiki",
           title: 'MyWiki',
           description: "My personal math wiki.",
