@@ -6,7 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - RasmusRaschke/scripts
   - RasmusRaschke/magsphere
-
-github_obsidian:
+  - RasmusRaschke/ribodyn
   - RasmusRaschke/MyWiki
   - RasmusRaschke/kokuyouwiki
