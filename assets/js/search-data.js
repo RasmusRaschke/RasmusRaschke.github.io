@@ -72,7 +72,7 @@ ninja.data = [{
               window.location.href = "/projects/kokuyouwiki/";
             },},{id: "projects-magsphere",
           title: 'magsphere',
-          description: "A program to simulate the dynamic of magnetic spheres in external fields.",
+          description: "A program to simulate the dynamics of magnetic spheres in external fields.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/magsphere/";
             },},{id: "projects-mywiki",
@@ -93,6 +93,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/RasmusRaschke", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0001-1490-3687", "_blank");
         },
       },{
         id: 'social-rss',
