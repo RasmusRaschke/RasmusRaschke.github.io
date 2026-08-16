@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ribodyn
-description: RIgid BOdy DYNamics package
+description: RIgid BOdy DYNamics
 img: assets/img/ribodyn.png
 importance: 1
 category: work

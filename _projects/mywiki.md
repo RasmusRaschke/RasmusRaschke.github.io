@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MyWiki
-description: My personal math wiki.
+description: Collection of my math notes.
 img: assets/img/mathwiki.png
 importance: 1
 category: personal

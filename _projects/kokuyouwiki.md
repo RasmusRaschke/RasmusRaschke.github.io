@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KokuyouWiki
-description: My personal Japanese wiki.
+description: A collection of my Japanese notes.
 img: assets/img/kokuyouwiki.jpg
 importance: 1
 category: personal

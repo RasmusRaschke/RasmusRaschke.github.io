@@ -2,7 +2,7 @@
 layout: page
 title: magsphere
 description: A program to simulate the dynamics of magnetic spheres in external fields.
-img: assets/img/magsphere.jpg
+img: assets/img/magsphere.png
 importance: 1
 category: work
 related_publications: false
