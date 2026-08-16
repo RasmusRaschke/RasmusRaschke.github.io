@@ -80,6 +80,11 @@ ninja.data = [{
           description: "My personal math wiki.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mywiki/";
+            },},{id: "projects-ribodyn",
+          title: 'ribodyn',
+          description: "RIgid BOdy DYNamics package",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ribodyn/";
             },},{
         id: 'social-email',
         title: 'email',
